@@ -3,7 +3,7 @@
 Natural Language Processing is an art of extracting information from text. 
 Using this we analyse emotions/sentiments of a given text or essay.We also scrape tweets and find out the emotions. attached to the tweets.
 
-## Cleaning Text Steps:
+### Cleaning Text Steps:
 1. Create a text file read.txt and paste any essay we want to analyse.
 2. Convert the letter to lowercase.
 3. Remove punctuations like .,!? etc.
