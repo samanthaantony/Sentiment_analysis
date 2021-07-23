@@ -18,9 +18,9 @@ Using this we analyse emotions/sentiments of a given text or essay.We also scrap
 
 ### Twitter data analysis
 1. Install GetOldTweets3 package.
-2. Create twitter_analysis.ipynb file
+2. Create twitter_analysis.py file
 3. Write function to get tweets using GetOldTweets
-4. Merge code from main.ipynb file to see graph of emotions
+4. Merge code from main.py file to see graph of emotions
 
 ### Using NLTK for sentiment analysis.
 1. Install nltk package.
